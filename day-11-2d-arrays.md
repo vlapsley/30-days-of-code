@@ -1,4 +1,4 @@
-# Day 12: 2D Arrays
+# Day 11: 2D Arrays
 
 **Objective**
 Today, we're building on our knowledge of _Arrays_ by adding another dimension. Check out the [Tutorial](https://www.hackerrank.com/challenges/30-2d-arrays/tutorial) tab for learning materials and an instructional video!
